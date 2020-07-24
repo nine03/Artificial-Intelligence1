@@ -1,8 +1,5 @@
 
 
-
-		
-
 		# message
 		# Hi my name is Yeongjun Kim
 		# Nice to meet you
