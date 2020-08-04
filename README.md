@@ -16,4 +16,10 @@
 
 ![캡처3](https://user-images.githubusercontent.com/60682087/89239832-5079ed00-d635-11ea-89cb-5a77498fd514.JPG)
 
+用矩阵表示为：
+
+![캡처4](https://user-images.githubusercontent.com/60682087/89239938-a6e72b80-d635-11ea-9836-c59636dfa022.JPG)
+
+即：
+
 - 这个项目是我为了重新学习人工智能而做的项目。（이 프로젝트는 내가 인공지능을 다시 공부하기위해서 만든 프로젝트입니다.）
